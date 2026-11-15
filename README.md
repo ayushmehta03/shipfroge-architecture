@@ -107,6 +107,6 @@ Read in this order if you are new:
 
 | Person | Track |
 |---|---|
-| _Name 1_ | Backend and platform (Go API, MongoDB, worker, integrations) |
-| _Name 2_ | Frontend and product (Next.js, dashboard, UX) |
+| 1stp| Backend and platform (Go API, MongoDB, worker, integrations) |
+| 2ndp| Frontend and product (Next.js, dashboard, UX) |
 | Both | DevOps and cloud (Docker, CI, Kubernetes), architecture, testing, docs |
